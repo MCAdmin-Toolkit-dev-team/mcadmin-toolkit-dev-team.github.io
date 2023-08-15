@@ -56,7 +56,7 @@ include_in_header: true
 
 <details>
 <summary>Screenshots</summary>
-<br><img src="/assets/docs/images/screenshots/home.jpg" title="Home Screen" width="100%"> | <img src="/assets/docs/images/screenshots/login.png" title="Login Screen" width="100%"> | <img src="/assets/docs/images/screenshots/dashboard.jpg" title="Server dashboard" width="100%"> | <img src="/assets/docs/images/screenshots/playersManagement.jpg" title="Players management" width="100%"> | <img src="/assets/docs/images/screenshots/bansManagement.jpg" width="100%"> | <img src="/assets/docs/images/screenshots/whitelistManagement.jpg" width="100%"> |
+<br><img src="/assets/docs/images/screenshots/home.jpg" title="Home Screen" width="100%">  <img src="/assets/docs/images/screenshots/login.png" title="Login Screen" width="100%">  <img src="/assets/docs/images/screenshots/dashboard.jpg" title="Server dashboard" width="100%">  <img src="/assets/docs/images/screenshots/playersManagement.jpg" title="Players management" width="100%">  <img src="/assets/docs/images/screenshots/bansManagement.jpg" width="100%">  <img src="/assets/docs/images/screenshots/whitelistManagement.jpg" width="100%"> 
 
 </details>
 
